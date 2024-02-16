@@ -1,2 +1,2 @@
 # ApplePhotosIcon
-Apple Photos Logo
+Apple Photos Logo with Animation
